@@ -1,3 +1,18 @@
 [submodule "Todo-App-Using-VanillaJS"]
 	path = Todo-App-Using-VanillaJS
 	url = git@github.com:vinyselopal/Todo-App-Using-VanillaJS.git
+[submodule "Todo-App-Using-VueJS-Backend-"]
+	path = Todo-App-Using-VueJS-Backend-
+	url = git@github.com:vinyselopal/Todo-App-Using-VueJS-Backend-.git
+[submodule "Todo-App-using-ReactJS-Backend"]
+	path = Todo-App-using-ReactJS-Backend
+	url = git@github.com:vinyselopal/Todo-App-using-ReactJS-Backend.git
+[submodule "Todo-App-Using-My-Own-React"]
+	path = Todo-App-Using-My-Own-React
+	url = git@github.com:vinyselopal/Todo-App-Using-My-Own-React.git
+[submodule "Todo-App-Using-ReactJS-Frontend"]
+	path = Todo-App-Using-ReactJS-Frontend
+	url = git@github.com:vinyselopal/Todo-App-Using-ReactJS-Frontend.git
+[submodule "Todo-App-Using-VueJS-Frontend"]
+	path = Todo-App-Using-VueJS-Frontend
+	url = git@github.com:vinyselopal/Todo-App-Using-VueJS-Frontend.git
